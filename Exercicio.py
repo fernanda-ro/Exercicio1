@@ -1,2 +1,4 @@
 import streamlit as st
-st.write("Bom dia")
+st.write("bom dia")
+st.write("esse é meu primeiro código no streamlit")
+
